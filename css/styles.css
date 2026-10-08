@@ -1,4 +1,8 @@
-
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -24,10 +28,11 @@
 }
 .nav-links .de_un:hover {
     text-decoration-line: underline;
+    color: #034BFF;
 }
 .nav-links .de_un{
     text-decoration: none;
-    color: #08111D; 
+    color: #08111d; 
 }
 .btn {
     display: inline-block;
@@ -39,7 +44,123 @@
     font-size: 16px; 
     border-radius: 5px;
     text-decoration: none;
+    margin-right: 10px;
+}
+.btn_dark {
+    display: inline-block;
+    background-color: #08111d; 
+    border: 1px solid #058DFE; 
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer; 
+    font-size: 16px; 
+    border-radius: 5px;
+    text-decoration: none;
 }
 .btn:hover {
     background-color: #0437b9; 
+}
+.btn_dark:hover {
+    background-color: #034BFF; 
+}
+
+.hero {
+    background-color: #08111d;
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    height: 90vh;
+    width:100%;
+}
+.hero main {
+    color: #ffffff;
+    margin-left: 80px;
+    margin-right: 80px;
+    width: 30%;
+    height: 100%;
+}
+.hero aside {
+    width: 70%;
+    height: 100%;
+}
+.hero aside img {
+    width: 100%;
+    height: 100%;
+}
+.hero main h1 {
+    margin-bottom: 0px;
+    font-size: 110px ;
+}
+.hero main h1 span {
+    color: #058DFE;
+}
+.hero main span span {
+    color: #C7F64A;
+}
+.hero main h2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 30px;
+}
+
+.circle1{
+    color: #08111d;
+    font-size: bold;
+    background-color: #B8C9CF;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto 0px;
+    margin-left: -5px;
+}
+
+.circle{
+    color: #08111d;
+    font-size: bold;
+    background-color: #D7C3B6;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    margin: auto 0px;
+    margin-left: -5px;
+
+}
+.circle-container{
+    margin-top: 10px ;
+    display: flex;
+}
+.circle-container p{
+    margin-left: 10px;
+    font-size: 20px;
+}
+.status {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px; 
+}
+.status article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.status article h2 {
+    margin: 0;
+    font-size: 36px;
+    color: #08111d;
+}
+.status article h2 p {
+    margin: 0;
+    font-size: 10px;
+    color: #08111d;
+}
+.status article i {
+    font-size: 10px;
+    margin-right: 10px;
 }
