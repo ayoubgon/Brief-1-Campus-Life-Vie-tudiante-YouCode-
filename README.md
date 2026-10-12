@@ -3,7 +3,7 @@
 A professional multi-page website clone of the **YouCode** school interface, focusing on the "Campus Life" experience. This project demonstrates advanced HTML/CSS integration skills, responsive design, and attention to UI/UX details.
 
 ## 📸 Project Preview
-![Main Page Preview](assts/screenshot.png) 
+![Main Page Preview]([assts/screenshot.png](https://github.com/ayoubgon/Brief-1-Campus-Life-Vie-tudiante-YouCode-/blob/main/assts/screenshot/Screenshot.png)) 
 *(Tip: Replace this with your actual screenshot link after uploading to GitHub)*
 
 ## ✨ Key Features
