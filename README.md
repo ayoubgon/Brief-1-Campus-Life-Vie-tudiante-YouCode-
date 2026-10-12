@@ -4,7 +4,6 @@ A professional multi-page website clone of the **YouCode** school interface, foc
 
 ## 📸 Project Preview
 ![Main Page Preview]([assts/screenshot.png](https://github.com/ayoubgon/Brief-1-Campus-Life-Vie-tudiante-YouCode-/blob/main/assts/screenshot/Screenshot.png)) 
-*(Tip: Replace this with your actual screenshot link after uploading to GitHub)*
 
 ## ✨ Key Features
 *   **Immersive Hero Section:** Capturing the essence of student life.
