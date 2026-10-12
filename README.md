@@ -20,7 +20,7 @@ A professional multi-page website clone of the **YouCode** school interface, foc
 
 ## 🚀 Live Demo
 Check out the live project here:  
-[👉 View Live Site]([https://your-username.github.io/your-repo-name/](https://ayoubgon.github.io/Brief-1-Campus-Life-Vie-tudiante-YouCode-/))
+[👉 View Live Site](https://ayoubgon.github.io/Brief-1-Campus-Life-Vie-tudiante-YouCode-/)
 
 ## 📂 Project Structure
 ```text
