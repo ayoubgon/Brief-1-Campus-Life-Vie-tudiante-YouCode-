@@ -503,19 +503,10 @@ footer{
     color :#C7F64A ;
     text-align: right;
 }
-
-
 .footer_contnte{
     display: flex;
     justify-content: space-between;
 }
-
-
-
-
-
-
-
 .temp{
     display: flex;
     justify-content: space-between;
